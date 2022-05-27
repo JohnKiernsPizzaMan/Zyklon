@@ -149,5 +149,5 @@
     • Initial release
 </details>
 <details>
-  <summary>Click to expand!</summary>
+  <summary>New changelog</summary>
 </details>
