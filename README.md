@@ -9,7 +9,7 @@
 ![](https://i.imgur.com/bElZR5H.png)
 
 ## Download
-(here)[https://github.com/JohnKiernsPizzaMan/Zyklon/releases]
+[here](https://github.com/JohnKiernsPizzaMan/Zyklon/releases)
 
 ## Instructions
 • Ensure that the Java JDK is installed. If you don't have it, get it here: https://www.oracle.com/java/technologies/javase-jdk8-downloads.html<br>
