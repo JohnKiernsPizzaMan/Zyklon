@@ -19,7 +19,7 @@
 • Run "injector.jar" and load the cheat. The web GUI should now be running on your network at port 1337. You may visit http://localhost:1337 on your machine or http://192.168.x.x:1337 on an external device to use it.
 
 ## Changelog
-<old>
+<details>
   <summary>Old changelog</summary>
     **5.0+ - 2/23/2021 (Purchase at https://zyklon.club/)**<br>
     • Full client recode & optimization (C++)<br>
@@ -147,7 +147,7 @@
     
     **1.0 - 4/23/2018**<br>
     • Initial release
-</old>
-<new>
+</details>
+<details>
   <summary>Click to expand!</summary>
-</new>
+</details>
